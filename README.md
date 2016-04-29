@@ -3,5 +3,6 @@ About
 -----
 Authors: Omowumi Lynda Ademola & Rachael Wang
 
-# Instructions
+Instructions
+------------
 * Double-click gameParent.py to run game
